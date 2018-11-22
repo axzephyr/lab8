@@ -33,7 +33,7 @@ int merger(int arr1[],int arr2[],int a,int b)           /*int s=(arr3,n);
 			min=arr3[i];
 		}
 	}
-	cout<<" The value of the maximum element among your entries is "<< min <<endl;
+	cout<<" The value of the minimum element among your entries is "<< min <<endl;
 }
 int main()
 {
